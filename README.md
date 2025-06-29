@@ -1,4 +1,4 @@
-# flutter_pnp_mi2a
+# flutter_pnp
 
 A new Flutter project.
 
